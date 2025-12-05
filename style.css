@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    text-align: center;
+    padding: 45px;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 32px;
+}
+
+p {
+    text-align: center; ;
+    font-size: 18px;
+    color: blue;
+    width: 100%
+    margin: 0 auto; 
+}
+
+img {
+    width: 300px;
+    margin: auto;
+    display: block;
+    margin-bottom: 40px;
+}
+
+button {
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+footer {
+    text-align: center;
+    padding: 50px;
+    font-size: 14px;
+    
+}
