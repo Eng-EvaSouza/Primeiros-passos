@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: beige;
+    background-color: #fff0f5;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -15,14 +15,14 @@ header {
 }
 
 h1 {
-    color: blueviolet;
+    color: #5a189a;
     font-size: 32px;
 }
 
 p {
     text-align: center; ;
     font-size: 18px;
-    color: blue;
+    color: #333333;
     width: 100%
     margin: 0 auto; 
 }
